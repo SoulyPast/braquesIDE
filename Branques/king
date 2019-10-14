@@ -1,13 +1,13 @@
-//<!DOCTYPE html>
-//<html lang="en">
-//<head>
-//    <meta charset="UTF-8">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
     <title>Branques</title>
     <script>
         var start = new Date().getTime();
         var num=7;
         var cantidadNumeros = 1000000;
->>>>>>> temps
+ 		temps
         var myArray = [];
         while(myArray.length < cantidadNumeros ){
             var numeroAleatorio = Math.ceil(Math.random()*cantidadNumeros);
